@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Brian Kimbrow</h1>
+<h1 align="center">Brian Kimbrow</h1>
 <h3 align="center">Im Brian.😃 I am a driven and multi-talented individual with a deep passion for coding, football, gaming, and spending time with my son. I love to explore new coding languages, experiment with new coding projects, and get a group of friends together to play different card games. In my free time, you can catch me doing things with my son and playing video games.I am very family oriented and value my time spent with loved ones above all else. My determination, creativity, and caring nature make me a standout individual in any setting. My coding projects are built from various sources, whether it be me looking for my own personal issue to solve.</h3>
 
 
