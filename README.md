@@ -13,7 +13,7 @@ with new coding projects, and get a group of friends together to play different 
 
 - 💬 Ask me about **React, Javascript, Node**
 
-- 📫 How to reach me **bkimbrow25@gail.com**
+- 📫 How to reach me **bkimbrow25@gmail.com**
 
 - ⚡ Fun fact **I am super competitive**
 
