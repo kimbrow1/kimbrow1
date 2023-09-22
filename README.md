@@ -5,7 +5,7 @@ with new coding projects, and get a group of friends together to play different 
 
 ---
 
-- 🔭 I’m currently working on [City-Explorer](https://kimbrow-city-explores.netlify.app/)
+- 🔭 I’m currently working on [game-listener.netlify.app)
 
 - 🌱 I’m currently learning **React, SQL, Python**
 
