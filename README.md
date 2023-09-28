@@ -7,7 +7,7 @@ with new coding projects, and get a group of friends together to play different 
 
 - 🔭 I’m currently working on [Game Listening App](https://game-listener.netlify.app)
 
-- 🌱 I’m currently learning **React, SQL, Python**
+- 🌱 I’m currently expanding my skills in **React, SQL, Python**
 
 - 👨‍💻 All of my projects are available at [https://kimbrow-portfolio.netlify.app](https://kimbrow-portfolio.netlify.app)
 
